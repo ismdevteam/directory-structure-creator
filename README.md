@@ -43,7 +43,7 @@ If it's not installed, you can install it using your package manager. For exampl
 
 2. Make the script executable:
    ```bash
-   chmod +x create-structure-from-tree-xml.sh
+   chmod +x create-dir-from-xml.sh
    ```
 
 3. Generate an XML file from an existing directory structure:
@@ -53,7 +53,7 @@ If it's not installed, you can install it using your package manager. For exampl
 
 4. Run the script with the XML file and optionally specify the output directory:
    ```bash
-   ./create-structure-from-tree-xml.sh structure.xml /desired/output/path
+   ./create-dir-from-xml.sh structure.xml /desired/output/path
    ```
 
 ## Examples
