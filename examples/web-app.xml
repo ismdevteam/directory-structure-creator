@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name="web-app/">
+    <directory name="assets">
+      <directory name="fonts">
+      </directory>
+      <directory name="icons">
+      </directory>
+      <directory name="img">
+      </directory>
+    </directory>
+    <directory name="css">
+      <file name="styles.css"></file>
+    </directory>
+    <file name="index.html"></file>
+    <directory name="js">
+      <file name="app.js"></file>
+      <file name="auth.js"></file>
+      <file name="config.js"></file>
+      <file name="helpers.js"></file>
+      <file name="ui.js"></file>
+      <directory name="vendor">
+        <file name="jquery.min.js"></file>
+      </directory>
+    </directory>
+    <directory name="lib">
+      <file name="utils.js"></file>
+    </directory>
+    <file name="package.json"></file>
+    <file name="README.md"></file>
+    <directory name="tests">
+      <directory name="integration">
+      </directory>
+      <directory name="unit">
+      </directory>
+    </directory>
+  </directory>
+  <report>
+    <directories>11</directories>
+    <files>11</files>
+  </report>
+</tree>

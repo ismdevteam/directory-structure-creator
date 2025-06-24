@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name="web-game/">
+    <directory name="css">
+      <file name="styles.css"></file>
+    </directory>
+    <directory name="fonts">
+    </directory>
+    <file name="index.html"></file>
+    <directory name="js">
+      <file name="config.js"></file>
+      <file name="game.js"></file>
+      <file name="license-auth.js"></file>
+      <file name="three-helpers.js"></file>
+      <file name="ui.js"></file>
+      <file name="utils.js"></file>
+    </directory>
+    <directory name="models">
+    </directory>
+  </directory>
+  <report>
+    <directories>4</directories>
+    <files>8</files>
+  </report>
+</tree>
